@@ -1,4 +1,4 @@
-### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+# EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
 ## Name:Naveen kumar V
 ## Regno:212223230140
 ## Aim: To  configure  the Network server and end device for traferring data on the network
